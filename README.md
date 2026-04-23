@@ -8,7 +8,7 @@
 ![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-GitHub-7957d5?style=for-the-badge&logo=github)
 
 ### 🏢 Full Stack Engineer | Automation & AI Specialist
-**Noida, India 🇮🇳 | Open to Relocation (Bangalore/Mumbai)**
+**Noida, India 🇮🇳 | Open to Relocate**
 
 ---
 
