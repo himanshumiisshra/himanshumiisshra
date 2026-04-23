@@ -44,4 +44,4 @@ When I'm not debugging or fine-tuning agents, I'm:
 - 🍖 On a mission to find the best home-cooked **mutton**.
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/himanshumiisshra) | [Email](mailto:mhimanshu.work@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/himanshumiisshra) | [Email](mailto:mhimanshu.work@gmail.com) 
