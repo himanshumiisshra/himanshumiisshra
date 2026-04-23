@@ -36,4 +36,4 @@ When I'm not architecting systems, I'm:
 - 🍖 Searching for the best home-cooked **mutton**.
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/himanshumiisshra)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/himanshumiisshra) 
