@@ -32,4 +32,4 @@ When I'm not architecting systems, I'm:
 - 🍖 Searching for the best home-cooked **mutton**.
 
 ---
-📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL)
+📫 **Connect with me:** [LinkedIn](linkedin.com/in/himanshumiisshra)
