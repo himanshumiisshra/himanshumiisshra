@@ -10,6 +10,8 @@
 ### 🏢 Full Stack Engineer | Automation & RAG Architect
 **Noida, India 🇮🇳 | Open to Relocate**
 
+🌐 **[Portfolio](https://himanshumiisshra-portfolio.vercel.app/)**
+
 ---
 
 </div>
@@ -40,4 +42,5 @@
 - 🍖 **Mutton Connoisseur:** Nothing beats home-cooked mutton (mom's recipe is the benchmark).
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/himanshumiisshra) | [Email](mailto:mhimanshu.work@gmail.com)
+
+📫 **Let's Connect:** [Portfolio](https://himanshumiisshra-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/himanshumiisshra) | [Email](mailto:mhimanshu.work@gmail.com)
